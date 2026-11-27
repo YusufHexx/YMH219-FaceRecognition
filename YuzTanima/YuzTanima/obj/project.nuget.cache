@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "AYvkbmGORyA=",
+  "dgSpecHash": "eaQWM/NcqII=",
   "success": true,
   "projectFilePath": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\YuzTanima.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HEX\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\opencvsharp4\\4.14.0.20261127\\opencvsharp4.4.14.0.20261127.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\opencvsharp4.extensions\\4.14.0.20261127\\opencvsharp4.extensions.4.14.0.20261127.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\opencvsharp4.runtime.win\\4.14.0.20261127\\opencvsharp4.runtime.win.4.14.0.20261127.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\opencvsharp4.windows\\4.14.0.20261127\\opencvsharp4.windows.4.14.0.20261127.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.14.0.20261127\\opencvsharp4.wpfextensions.4.14.0.20261127.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512",
+    "C:\\Users\\HEX\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
