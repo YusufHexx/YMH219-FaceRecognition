@@ -8,26 +8,23 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Yusuf\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages": {},
+    "C:\\Users\\HEX\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\YuzTanima.csproj",
+      "projectUniqueName": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\YuzTanima.csproj",
       "projectName": "YuzTanima",
-      "projectPath": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\YuzTanima.csproj",
-      "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\obj\\",
+      "projectPath": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\YuzTanima.csproj",
+      "packagesPath": "C:\\Users\\HEX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+        "C:\\Users\\HEX\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -36,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

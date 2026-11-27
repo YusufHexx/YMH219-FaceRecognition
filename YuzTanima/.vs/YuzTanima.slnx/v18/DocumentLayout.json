@@ -1,17 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\",
+  "WorkspaceRootPath": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A978D81B-95D2-0EAE-8BC6-ADB50002948B}|YuzTanima\\YuzTanima.csproj|c:\\users\\yusuf\\desktop\\yuztanima\\yuztanima\\yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A978D81B-95D2-0EAE-8BC6-ADB50002948B}|YuzTanima\\YuzTanima.csproj|solutionrelative:yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{005193FE-7727-4428-8F66-802753E22F6C}|YuzTanima\\YuzTanima.csproj|C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{005193FE-7727-4428-8F66-802753E22F6C}|YuzTanima\\YuzTanima.csproj|solutionrelative:yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusuf\\Desktop\\YuzTanima\\5-OpenCv-YuzTanima\\5-opencv-yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B730157B-F967-493E-B277-ABCB3B9DFF08}|YuzTanima\\YuzTanima.csproj|c:\\users\\hex\\desktop\\github\\ymh219-facerecognition\\yuztanima\\yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B730157B-F967-493E-B277-ABCB3B9DFF08}|YuzTanima\\YuzTanima.csproj|solutionrelative:yuztanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,45 +13,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 107,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\Form1.cs",
-              "RelativeDocumentMoniker": "YuzTanima\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "YuzTanima\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T21:21:25.733Z",
-              "EditorCaption": " [Tasar\u0131m]",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\YuzTanima\\YuzTanima\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\Form1.cs",
               "RelativeDocumentMoniker": "YuzTanima\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\VoiceAssistant\\YuzTanima\\YuzTanima\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\VoiceAssistant\\YuzTanima\\YuzTanima\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HEX\\Desktop\\GitHub\\YMH219-FaceRecognition\\YuzTanima\\YuzTanima\\Form1.cs [Design]",
+              "RelativeToolTip": "YuzTanima\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T21:20:54.965Z",
+              "WhenOpened": "2026-11-27T20:05:42.398Z",
+              "EditorCaption": " [Design]",
               "OwnerCaption": "%2"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Yusuf\\Desktop\\YuzTanima\\5-OpenCv-YuzTanima\\5-OpenCv-YuzTanima\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\5-OpenCv-YuzTanima\\5-OpenCv-YuzTanima\\Form1.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\Desktop\\Firat-5 Uygulama\\Firat-5-Uygulama\\5-OpenCv-YuzTanima\\5-OpenCv-YuzTanima\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\Firat-5 Uygulama\\Firat-5-Uygulama\\5-OpenCv-YuzTanima\\5-OpenCv-YuzTanima\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T20:36:28.117Z",
-              "OwnerCaption": "%2"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

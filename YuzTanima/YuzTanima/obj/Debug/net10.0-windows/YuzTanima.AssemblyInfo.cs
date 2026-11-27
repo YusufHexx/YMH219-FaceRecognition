@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YuzTanima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa87ff22391f5a24caaa4ce670060928592744f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("YuzTanima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YuzTanima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
